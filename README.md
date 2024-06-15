@@ -3,11 +3,12 @@
 <img align="right" alt="Coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0Du6b-lDyGg5r66iPUlbHu&ust=1718538948179000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPCCiM7G3YYDFQAAAAAdAAAAABAE"  >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnadeol&label=Profile%20views&color=0e75b6&style=flat" alt="krishnadeol" /> </p>
 
-- 🔭 I’m currently working on **RULOANS**
+- 🔭 I’m currently working on **RULOANS Website
+- **
 
 - 🌱 I’m currently learning **NEXT.JS**
 
-- 💬 Ask me about **anything about react, databases**
+- 💬 Ask me about **anything about React.js, databases**
 
 - 📫 How to reach me **krishnadeol123@gmail.com**
 
