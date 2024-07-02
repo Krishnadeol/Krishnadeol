@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NEXT.JS**
 
-- 💬 Ask me about **anything about React.js, databases**
+- 💬 Ask me about **anything about React.js, Databases**
 
 - 📫 How to reach me **krishnadeol123@gmail.com**
 
