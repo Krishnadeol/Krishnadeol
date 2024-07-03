@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **RULOANS Website**
 
-- 🌱 I’m currently learning **NEXT.JS**
+- 🌱 I’m currently learning **Next.JS**
 
 - 💬 Ask me about **anything about React.js, Databases**
 
