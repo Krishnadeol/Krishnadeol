@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krishna Deol</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" src="path/to/your/coding-image.png" >
-<p align="left"> <img src="https://giphy.com/gifs/pudgypenguins-computer-developer-binary-ua7vVw9awZKWwLSYpW" alt="krishnadeol" /> </p>
+<img align="right" alt="Coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0Du6b-lDyGg5r66iPUlbHu&ust=1718538948179000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPCCiM7G3YYDFQAAAAAdAAAAABAE"  >
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnadeol&label=Profile%20views&color=0e75b6&style=flat" alt="krishnadeol" /> </p>
 
 - 🔭 I’m currently working on **SCORE FLOW**, a project aimed at [brief description of the project].
   
