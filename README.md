@@ -2,18 +2,16 @@
 <h3 align="center">A passionate developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnadeol&label=Profile%20views&color=0e75b6&style=flat" alt="visitor counter" /> </p>
  <img 
-        align="right" 
+        align="left" 
         alt="Coding" 
         src="https://i.giphy.com/ua7vVw9awZKWwLSYpW.webp"
-        style="display: inline-block; transition: transform 0.5s ease; transform-origin: left center;"
-        onmouseover="this.style.transform='scaleX(1.5)';"
-        onmouseout="this.style.transform='scaleX(1)';"
+         style="width: 100%;"
     >
 <br>
 
-- 🔭 I’m currently working on **SCORE FLOW**, a project aimed at [brief description of the project].
+- 🔭 I’m currently working on **SCORE FLOW**.
   
-- 🌱 I’m currently learning **Next.JS**, focusing on [specific areas of interest].
+- 🌱 I’m currently learning **Next.JS**.
 
 - 💬 Ask me about **anything related to React.js and Databases**.
 
